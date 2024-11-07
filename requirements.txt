@@ -1,0 +1,4 @@
+django
+django-cors-headers
+djangorestframework
+pymongo==3.12.3
